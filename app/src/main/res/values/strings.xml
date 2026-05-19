@@ -2,12 +2,12 @@
 <resources>
     <string name="app_name">Alert Relay</string>
     <string name="notification_listener_label">Alert Relay message detector</string>
-    <string name="tagline">Alert your iPhone when Android gets a call or text</string>
-    <string name="hero_hint">Tip: Install ntfy on iPhone and use the same secret topic below.</string>
+    <string name="tagline">Relay call and text alerts to any phone via ntfy</string>
+    <string name="hero_hint">Tip: Install ntfy on iPhone or another Android and use the same secret topic below.</string>
     <string name="section_connection">Connection</string>
-    <string name="section_connection_hint">Your private ntfy topic links Android to iPhone.</string>
+    <string name="section_connection_hint">Your private ntfy topic links this phone to any device running ntfy.</string>
     <string name="section_test">Try it out</string>
-    <string name="section_test_hint">Send a test alert and check your iPhone.</string>
+    <string name="section_test_hint">Send a test alert and check the ntfy app on your other phone.</string>
     <string name="setup_progress">%1$d of %2$d complete</string>
     <string name="theme_toggle">Change theme</string>
     <string name="theme_system">Using system theme</string>
@@ -20,12 +20,12 @@
     <string name="ntfy_topic_helper">Use a long random name, e.g. my-relay-x8k2m9q4</string>
     <string name="enable_relay">Enable relay</string>
     <string name="include_details_title">Show who is calling or texting</string>
-    <string name="include_details_subtitle">Sends contact name or number to your iPhone. Never sends message content.</string>
+    <string name="include_details_subtitle">Sends contact name or number to your ntfy topic. Never sends message content.</string>
     <string name="save_topic">Save topic</string>
     <string name="test_call_alert">Test call alert</string>
     <string name="test_text_alert">Test text alert</string>
     <string name="setup_title">Setup checklist</string>
-    <string name="setup_step_iphone">Install ntfy on iPhone and subscribe to your topic</string>
+    <string name="setup_step_iphone">Install ntfy on iPhone or another Android and subscribe to your topic</string>
     <string name="setup_step_topic">Enter the same topic below and save</string>
     <string name="setup_step_phone">Grant phone permission</string>
     <string name="setup_step_notifications">Enable notification access (calls + texts)</string>
@@ -37,8 +37,8 @@
     <string name="open_battery_settings">Battery optimization</string>
     <string name="foreground_channel_name">Alert Relay service</string>
     <string name="foreground_notification_title">Alert Relay is watching</string>
-    <string name="foreground_notification_text">Sending alerts to your iPhone</string>
-    <string name="foreground_notification_text_details">Sending caller and sender names to your iPhone</string>
+    <string name="foreground_notification_text">Sending alerts to your ntfy topic</string>
+    <string name="foreground_notification_text_details">Sending caller and sender names to your ntfy topic</string>
     <string name="alert_call_title">Incoming call</string>
     <string name="alert_call_body">Someone is calling you.</string>
     <string name="alert_call_body_named">Call from: %1$s</string>
@@ -54,7 +54,7 @@
     <string name="toast_topic_required">Enter a topic first</string>
     <string name="toast_relay_enabled">Relay enabled</string>
     <string name="toast_relay_disabled">Relay disabled</string>
-    <string name="toast_test_sent">Test alert sent — check your iPhone</string>
+    <string name="toast_test_sent">Test alert sent — check the ntfy app on your other phone</string>
     <string name="toast_test_failed">Could not send alert. Check internet and topic.</string>
     <string name="privacy_note">Caller/sender names may be sent to your private ntfy topic over HTTPS. Message content is never read or sent. Keep your topic secret.</string>
     <string name="privacy_note_generic">Only generic alerts are sent — no names or numbers. Keep your ntfy topic secret.</string>

@@ -33,12 +33,12 @@ You can also run the workflow manually: **Actions → Build and release APK → 
 ```markdown
 ## Alert-me v1.0.0
 
-- Relay incoming calls and SMS alerts to iPhone via ntfy
+- Relay incoming calls and SMS alerts via ntfy (iPhone, Android, or any ntfy client)
 - Optional caller/sender names (no message body)
 - Light/dark theme and setup checklist
 
 ### Install
 1. Download `Alert-me-v1.0.0.apk` below
 2. Allow install from browser/files if asked
-3. Follow the README setup (ntfy on iPhone + same topic on Android)
+3. Follow the README setup (Alert-me on call/SMS phone + ntfy on receiver device, same topic)
 ```
