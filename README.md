@@ -4,8 +4,19 @@
 
 Free, open-source Android app that forwards **incoming call** and **new text** alerts to your iPhone using [ntfy](https://ntfy.sh).
 
-[![Download latest APK](https://img.shields.io/github/v/release/faizanali1106/Alert-me?label=Download%20APK)](https://github.com/faizanali1106/Alert-me/releases/latest)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+<p align="center">
+  <a href="https://github.com/faizanali1106/Alert-me/releases/latest/download/alerter.apk">
+    <img src="https://img.shields.io/badge/Download%20APK-0D9488?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/faizanali1106/Alert-me/releases/latest/download/alerter.apk"><strong>⬇️ Direct download: alerter.apk</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/faizanali1106/Alert-me/releases/latest">All releases</a>
+  &nbsp;·&nbsp;
+  <a href="LICENSE">MIT License</a>
+</p>
 
 ## Features
 
@@ -18,11 +29,11 @@ Free, open-source Android app that forwards **incoming call** and **new text** a
 
 ## Download
 
-1. Open **[Releases](https://github.com/faizanali1106/Alert-me/releases/latest)** and download `Alert-me-v1.0.0.apk` (or latest)
+1. Tap **[Download APK](https://github.com/faizanali1106/Alert-me/releases/latest/download/alerter.apk)** (starts download immediately)
 2. Allow install from your browser/files app if prompted
 3. Install and follow setup below
 
-**No release yet?** See [RELEASING.md](RELEASING.md) to publish one (automatic build via GitHub Actions, or upload APK from Android Studio).
+> **Latest:** [v1.0.0](https://github.com/faizanali1106/Alert-me/releases/tag/v1.0.0) · If the button does not work on mobile, open [Releases](https://github.com/faizanali1106/Alert-me/releases/latest) and tap `alerter.apk`.
 
 ## How it works
 
@@ -47,7 +58,7 @@ Message **content** is never read or sent — only sender/caller from the system
 
 ## Android setup
 
-1. Install the APK from [Releases](https://github.com/faizanali1106/Alert-me/releases/latest).
+1. Install the APK from the [direct download](https://github.com/faizanali1106/Alert-me/releases/latest/download/alerter.apk) link above.
 2. Same **ntfy topic** → **Save topic**.
 3. Turn **Show who is calling or texting** on or off.
 4. **Grant phone access** and **Enable notification access** (needed for calls + texts).
