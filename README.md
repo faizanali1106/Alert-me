@@ -18,11 +18,11 @@ Free, open-source Android app that forwards **incoming call** and **new text** a
 
 ## Download
 
-1. Open **[Releases](https://github.com/faizanali1106/Alert-me/releases/latest)** and download the latest `.apk`
+1. Open **[Releases](https://github.com/faizanali1106/Alert-me/releases/latest)** and download `Alert-me-v1.0.0.apk` (or latest)
 2. Allow install from your browser/files app if prompted
 3. Install and follow setup below
 
-> No release yet? Build from source (see below) or check back for an uploaded APK.
+**No release yet?** See [RELEASING.md](RELEASING.md) to publish one (automatic build via GitHub Actions, or upload APK from Android Studio).
 
 ## How it works
 
