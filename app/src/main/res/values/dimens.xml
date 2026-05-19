@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_horizontal">20dp</dimen>
+    <dimen name="card_radius">20dp</dimen>
+    <dimen name="card_radius_large">24dp</dimen>
+    <dimen name="section_spacing">12dp</dimen>
+    <dimen name="card_padding">20dp</dimen>
+    <dimen name="hero_padding">24dp</dimen>
+    <dimen name="toolbar_elevation">0dp</dimen>
+</resources>

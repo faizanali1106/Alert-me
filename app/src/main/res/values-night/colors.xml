@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2DD4BF</color>
+    <color name="primary_dark">#14B8A6</color>
+    <color name="primary_container">#134E4A</color>
+    <color name="on_primary">#042F2E</color>
+    <color name="on_primary_container">#99F6E4</color>
+    <color name="on_primary_muted">#CCFBF1</color>
+
+    <color name="secondary">#A5B4FC</color>
+    <color name="secondary_container">#312E81</color>
+    <color name="on_secondary_container">#E0E7FF</color>
+
+    <color name="background">#0B1220</color>
+    <color name="surface">#151F2E</color>
+    <color name="surface_elevated">#1C2938</color>
+    <color name="surface_variant">#1E293B</color>
+    <color name="on_background">#F1F5F9</color>
+    <color name="on_surface">#E2E8F0</color>
+    <color name="on_surface_variant">#94A3B8</color>
+    <color name="outline">#334155</color>
+    <color name="outline_variant">#1E293B</color>
+
+    <color name="success">#34D399</color>
+    <color name="success_container">#064E3B</color>
+    <color name="on_success_container">#A7F3D0</color>
+    <color name="warning">#FBBF24</color>
+    <color name="warning_container">#78350F</color>
+    <color name="on_warning_container">#FDE68A</color>
+    <color name="error">#F87171</color>
+
+    <color name="status_active_bg">#064E3B</color>
+    <color name="status_active_stroke">#34D399</color>
+    <color name="status_inactive_bg">#1E293B</color>
+    <color name="status_warning_bg">#422006</color>
+
+    <color name="gradient_start">#0F766E</color>
+    <color name="gradient_end">#4338CA</color>
+    <color name="hero_overlay">#26FFFFFF</color>
+
+    <color name="ripple_on_surface">#332DD4BF</color>
+    <color name="scrim_toolbar">#0B1220</color>
+</resources>
